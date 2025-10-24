@@ -1,0 +1,20 @@
+{
+  "name": "musicmaykers-platform",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/tailwind": "^6.0.2",
+    "astro": "^4.0.0",
+    "autoprefixer": "^10.4.21",
+    "esbuild": "^0.25.11",
+    "postcss": "^8.5.6",
+    "postcss-import": "^16.1.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.18"
+  }
+}
