@@ -1,0 +1,6 @@
+*.chunk.js
+dep-*.js
+*.d.ts
+*-config.json
+trackerData.json
+tracker-radar.json
